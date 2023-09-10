@@ -18,4 +18,4 @@ The following is a list of features that this project aims to provide
 | Frontend JS Library       | Framework-agnostic library for handling authentication and api communication | Not started |
 | Backend Libraries         | Multi-language support for handling auth and api communication with Liferay  | Not started |
 | React Component Library   | Components that understand Liferay Objects and respond to their changes      | Not started |
-
+| Dummy Data Generator      | Automatically populate Liferay Objects with dummy data                       | Not started |
